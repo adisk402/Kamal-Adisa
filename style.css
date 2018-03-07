@@ -2,7 +2,7 @@ body{
   background-color:yellow;
   font-family: helvetica;
   font-size: 0.875em; 
-  border:20px;
+  padding:50px;
 }
 
 p{
